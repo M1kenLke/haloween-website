@@ -17,7 +17,7 @@
   display: flex;
   justify-content: center;
   flex-direction: row;
-  background-image: url(pictures/PartyHaloween.png);
+  background-image: url(PartyHaloween.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
