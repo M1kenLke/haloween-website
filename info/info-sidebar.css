@@ -1,0 +1,35 @@
+.sidebar {
+  height: 40px;
+  font-family: 'Kanit', sans-serif;
+  color: rgb(230, 186, 42);
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+.sidebar-center {
+  
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  
+}
+.section {
+  font-size: 25px;
+  display: inline-block;
+}
+.section a {
+  transition: color .3s;
+}
+.section:hover {
+  cursor: pointer;
+}
+.sidebar-center a:link {
+  color: rgba(117,159,185,255);
+  text-decoration: none; 
+}
+.sidebar-center a:visited {
+  color: rgba(117,159,185,255);
+}
+.sidebar-center a:hover {
+  color: rgb(199, 199, 199); 
+}

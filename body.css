@@ -1,0 +1,25 @@
+.main {
+  border-style: solid;
+  border-width: 20px;
+  border-color: rgb(0, 0, 0);
+  margin-right: 1%;
+  margin-left: 1%;
+}
+
+.body {
+  border-style: solid;
+  border-top-width: 1.5px;
+  border-bottom-width: 1.5px;
+  border-right-width: 1.5px;
+  border-left-width: 1.5px;
+  border-radius: 20px;
+  border-color: rgb(146, 118, 24);
+  height: 1400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  background-image: url(pictures/PartyHaloween.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
